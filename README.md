@@ -7,6 +7,7 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harxh1405/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/harxh1405/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,4 +16,9 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harxh1405/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/harxh1405/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/harxh1405/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
