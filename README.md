@@ -32,9 +32,22 @@ My solutions to LeetCode problems
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/harxh1405/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/harxh1405/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/harxh1405/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/harxh1405/Leetcode-solutions/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/harxh1405/Leetcode-solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/harxh1405/Leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
