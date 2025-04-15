@@ -10,6 +10,7 @@ My solutions to LeetCode problems
 | [0088-merge-sorted-array](https://github.com/harxh1405/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/harxh1405/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/harxh1405/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0724-find-pivot-index](https://github.com/harxh1405/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +51,8 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/harxh1405/Leetcode-solutions/tree/master/0067-add-binary) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/harxh1405/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
