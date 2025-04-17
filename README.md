@@ -42,6 +42,7 @@ My solutions to LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harxh1405/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/harxh1405/Leetcode-solutions/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -55,4 +56,12 @@ My solutions to LeetCode problems
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/harxh1405/Leetcode-solutions/tree/master/0724-find-pivot-index) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/harxh1405/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/harxh1405/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
